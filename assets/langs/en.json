@@ -1,0 +1,9 @@
+{
+  "error_massege": {
+    "field_request": "An error occurred during the operation, please try again",
+    "no_connect_internet": "Please check your internet connection and try again",
+    "no_data": "No Data Now",
+    "no_account": "This account is not registered"
+  }
+ 
+}
